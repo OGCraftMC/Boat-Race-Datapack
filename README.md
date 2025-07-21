@@ -25,6 +25,8 @@ This datapack also executes a function when a player joins the world for their f
 There is also a 1 second loop where you can put your more computationally-expensive commands, such as NBT data queries or uses of `/execute`.
 
 
+I can now go and edit files
+
 # Additional Resources
 - https://datapack.wiki/
 - https://misode.github.io/
